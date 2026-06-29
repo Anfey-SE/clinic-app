@@ -1,0 +1,3 @@
+id,student_name,roll_no,symptoms,doctor,medicine,status,visit_date,visit_time,notes
+1,Amna Hafeez,SE-01,fever and headache,Dr. Ayesha,panadol,waiting,2026-06-29,15:50,
+2,humna,SE-03,headache,Dr. Bilal,Panadol,treated,2026-06-29,16:08,
