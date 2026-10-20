@@ -92,4 +92,4 @@ Runs at: http://localhost:5173
 ## 👩‍💻 Developer
 
 **Amna Hafeez** — BSc Software Engineering, FAST-NUCES Islamabad  
-GitHub: [@Anfey-SE](https://github.com/Anfey-SE)git commit -m "Campus Clinic Queue Manager - Flask + React full stack app"
+GitHub: [@Anfey-SE](https://github.com/Anfey-SE)
